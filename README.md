@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ozanyurdakul98
-- 👀 I’m interested in Web Development and a bright future for a better World
+- 👀 I’m interested in Web Development and a bright future for our World
 - 🌱 I’m currently learning Fullstack Web Development
-- 💞️ I’m looking to collaborate on nothing todate
 - 📫 How to reach me ozan.yurdakul58@gmail.com
 
 ##Projects
