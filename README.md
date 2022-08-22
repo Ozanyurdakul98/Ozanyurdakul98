@@ -24,14 +24,15 @@
 
 
 ## My Projects
-
 My first Project is a Recipe Website build with HTML:
 <a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
 
 
 ## Some Pictures of ME!
-![This is Cappadocia](https://github.com/Ozanyurdakul98/Ozanyurdakul98/blob/main/IMG_6640.jpeg "Title1")
-![This is Cappadocia](https://github.com/Ozanyurdakul98/Ozanyurdakul98/blob/main/IMG_6604.jpeg "Title1")
+<div>
+<img src="IMG_6604.jpeg" alt="Girl in a jacket" width="500" height="600">
+<img src="IMG_6640.jpeg" alt="Girl in a jacket" width="500" height="600">
+</div>
 
 <!---
 Ozanyurdakul98/Ozanyurdakul98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
