@@ -30,8 +30,9 @@ My first Project is a Recipe Website build with HTML:
 
 ## Some Pictures of ME!
 <div>
-<img src="IMG_6604.jpeg" alt="Girl in a jacket" width="500" height="600">
-<img src="IMG_6640.jpeg" alt="Girl in a jacket" width="500" height="600">
+<img src="./Pictures/cappadociaBallons.jpeg" alt="Cappadocia" width="500" height="600">
+<img src="./Pictures/cappadociaCave.jpeg" alt="Cappadocia" width="500" height="600">
+<img src="./Pictures/loveAlanya.jpeg" alt="Cappadocia" width="500" height="600">
 </div>
 
 <!---
