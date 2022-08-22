@@ -6,7 +6,7 @@
 ##Projects
 
 My first Project is a Recipe Website build with HTML:
-<a href="https://ozanyurdakul98.github.io/odin-recipes/">click here</a>
+<a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
 
 <!---
 Ozanyurdakul98/Ozanyurdakul98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
