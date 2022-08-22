@@ -1,10 +1,14 @@
 # Ozan Leon Yurdakul
 
+## Main fact's about ME
 - 👋 Hi, I’m @Ozanyurdakul98
-- 👀 I’m interested in Web Development and a bright future for our World
+- 🥸 I'm born in Austria but from Turkey and currently living in Germany
+- 👀 I’m interested in good Web Development and a bright future full of Robots!
 - 🌱 I’m currently learning Fullstack Web Development
 - 📫 How to reach me ozan.yurdakul58@gmail.com
 
+
+## My 
 ##Projects
 
 My first Project is a Recipe Website build with HTML:
