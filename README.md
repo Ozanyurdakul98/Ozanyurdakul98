@@ -4,17 +4,23 @@
 
 ## Main fact's about ME
 
-- 👋 Hi, I’m @Ozanyurdakul98
-- 🥸 I'm born in Austria but from Turkey and currently living in Germany
-- 👀 I’m interested in good Web Development and a bright future full of Robots!
-- 🌱 I’m currently learning Fullstack Web Development
-- 📫 How to reach me ozan.yurdakul58@gmail.com
-- Crypto's I like ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+- 👋 It's me @Ozanyurdakul98
+- 🥸 I'm born in Austria with origin from Turkey and currently living in Germany
+- 👀🤖 I’m interested in good Web Development and a bright future full of Robots!
+- 📝📚 I’m currently learning Fullstack Web Development at the Bootcamp from Neuefische
+- I like Crypto & Blockhain ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
   ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)
   ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
+## My recent holiday Pictures
+
+<div>
+<img src="./Pictures/cappadociaBallons.jpeg" alt="Cappadocia" width="500" height="600">
+<!-- <img src="./Pictures/cappadociaCave.jpeg" alt="Cappadocia" width="500" height="600"> -->
+<img src="./Pictures/loveAlanya.jpeg" alt="Cappadocia" width="500" height="600">
+</div>
 </br>
 
 ## Thing's I know how to play with
@@ -27,26 +33,23 @@
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-### Cloud Storage
-
-![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
-![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)
-
 ### Design
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
-### Languages [Add German and english flag]
+### Languages
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![German](./Pictures/germany-2.png)
+![English](./Pictures/united-states-of-america.png)
+![Austria](./Pictures/austria.png)
+![Turkey](./Pictures/turkey.png)
 
 ### Frameworks, Platforms, Libraries and IDE
 
@@ -54,7 +57,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Databases
@@ -91,14 +93,6 @@ My personal Website <a href="https://ozanyurdakul98.github.io/personal-website/"
 My favourite recipe Website <a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
 
 </br>
-
-## Some Pictures of ME!
-
-<div>
-<img src="./Pictures/cappadociaBallons.jpeg" alt="Cappadocia" width="500" height="600">
-<img src="./Pictures/cappadociaCave.jpeg" alt="Cappadocia" width="500" height="600">
-<img src="./Pictures/loveAlanya.jpeg" alt="Cappadocia" width="500" height="600">
-</div>
 
 <!---
 Ozanyurdakul98/Ozanyurdakul98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
