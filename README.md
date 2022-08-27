@@ -77,9 +77,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozanyurdakul98)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Projects
-My first Project is a Recipe Website build with HTML:
-<a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
+# My Projects
+My personal Website <a href="https://ozanyurdakul98.github.io/personal-website/">click here</a>
+My favourite recipe Website <a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
 
 </br>
 
