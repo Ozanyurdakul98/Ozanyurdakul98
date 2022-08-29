@@ -79,6 +79,8 @@
 
 # My Projects
 
+My General Knowledge Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">Watch out for the Design</a>
+
 My personal Website <a href="https://ozanyurdakul98.github.io/personal-website/">click here</a>
 
 My favourite recipe Website <a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
