@@ -14,14 +14,6 @@
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
-## My recent holiday Pictures
-
-<div>
-<img src="./Pictures/cappadociaBallons.jpeg" alt="Cappadocia" width="500" height="600">
-<!-- <img src="./Pictures/cappadociaCave.jpeg" alt="Cappadocia" width="500" height="600"> -->
-<img src="./Pictures/loveAlanya.jpeg" alt="Cappadocia" width="500" height="600">
-</div>
-</br>
 
 ## Thing's I know how to play with
 
