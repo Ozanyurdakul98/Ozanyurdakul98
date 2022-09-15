@@ -8,11 +8,7 @@
 - 🥸 I'm born in Austria with origin from Turkey and currently living in Germany
 - 👀🤖 I’m interested in good Web Development and a bright future full of Robots!
 - 📝📚 I’m currently learning Fullstack Web Development at the Bootcamp from Neuefische
-- I like Crypto & Blockhain ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-  ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white)
-  ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-  ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
+- I like ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
 
 ## Thing's I know how to play with
