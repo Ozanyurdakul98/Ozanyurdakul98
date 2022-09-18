@@ -68,9 +68,7 @@ My General Knowledge Quiz App <a href="https://ozanyurdakul98.github.io/general-
 
 Rick & Morty Character's Website (API) <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">Link will follow</a>
 
-My personal Website <a href="https://ozanyurdakul98.github.io/personal-website/">click here</a>
-
-My favourite recipe Website <a href="https://ozanyurdakul98.github.io/Recipes-Website/">click here</a>
+My personal Website (Portfolio) <a href="https://ozanyurdakul98.github.io/personal-website/">click here</a>
 
 </br>
 
