@@ -63,6 +63,9 @@ add npm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozanyurdakul98)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
+### for an overall overview of all my projects goto my personal Website
+
+Working on selfdriving car project
 
 My General Knowledge Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">Watch out for the Design</a>
 
