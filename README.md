@@ -12,8 +12,6 @@
 
 ## Thing's I know how to play with
 
-#### Design!
-- Gimp, Adobe Photoshop, Canvas pro, FIGMA, Wordpress & Elementor pro
 
 #### Languages
 - Markdown, Shell Script, CSS3, HTML5, vanilla Javascript
@@ -25,11 +23,13 @@
 - Visual Studio Code
 - MongoDB
 
-#### Version Control
+#### Design
+- Gimp, Adobe Photoshop, Canvas pro, FIGMA, Wordpress & Elementor pro
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-add npm
+#### Version control and Package manager
+
+- Github, Git
+- Npm
 
 #### Dev/Forums & Education
 
