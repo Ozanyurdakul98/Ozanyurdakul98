@@ -13,20 +13,21 @@
 ## Thing's I know how to play with
 
 
-#### Languages
+#### Languages & Languages
 - Markdown, Shell Script, CSS3, HTML5, vanilla Javascript
 - German, English, Turkish, Austrian-ish
 
-#### Runtime  enviroments, Frameworks, IDEs and Databases 
+#### Runtime  enviroments, Frameworks, Libraries, IDEs & Databases 
 - Node.js
 - React.js, Next.js
+- Styled-components
 - Visual Studio Code
 - MongoDB
 
 #### Design
 - Gimp, Adobe Photoshop, Canvas pro, FIGMA, Wordpress & Elementor pro
 
-#### Version control and Package manager
+#### Version control & Package manager
 - Github, Git
 - Npm
 
