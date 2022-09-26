@@ -32,7 +32,7 @@
 
 #### Dev/Forums & Education
 - Reddit, Stack Overflow, Quora, MDN, Google
-- Neuefisch Bootcamp🔥🔥🔥, Udemy, Coursera 
+- Neuefisch remote Traineeship🔥🔥🔥, Udemy, Coursera 
 
 </br> </br>
 
