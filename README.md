@@ -10,7 +10,6 @@
 - 📝📚 I’m currently learning Fullstack Web Development at the Bootcamp from Neuefische
 - I like ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
-
 ## Thing's I know how to play with
 
 ### Design
@@ -18,7 +17,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
-add canvas pro and elementor pro
+add canvas pro, elementor pro and FIGMA
 
 ### Languages
 
@@ -45,7 +44,7 @@ add canvas pro and elementor pro
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-add npm 
+add npm
 
 ### Dev/Forums & Education
 
@@ -63,6 +62,7 @@ add npm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozanyurdakul98)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
+
 ### for an overall overview of all my projects goto my personal Website
 
 Working on selfdriving car project
