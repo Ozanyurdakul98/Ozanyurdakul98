@@ -17,12 +17,12 @@
 - Markdown, Shell Script, CSS3, HTML5, vanilla Javascript
 - German, English, Turkish, Austrian-ish
 
-#### Runtime  enviroments, Frameworks, Libraries, IDEs & Databases 
-- Node.js
-- React.js, Next.js
-- Styled-components
-- Visual Studio Code
-- MongoDB
+#### Runtime-enviroments, Frameworks, Libraries, IDEs & Databases
+- Runtime-environments: Node.js
+- Frameworks: React.js, Next.js
+- Libraries: Styled-components
+- IDEs: Visual Studio Code
+- Databases: MongoDB
 
 #### Design
 - Gimp, Adobe Photoshop, Canvas pro, FIGMA, Wordpress & Elementor pro
@@ -33,7 +33,7 @@
 
 #### Dev/Forums & Education
 - Reddit, Stack Overflow, Quora, MDN, Google
-- Neuefisch remote Traineeship🔥🔥🔥, Udemy, Coursera 
+- Neuefisch Traineeship🔥🔥🔥, Coursera, Udemy
 
 </br> </br>
 
