@@ -45,11 +45,12 @@
 
 Working on selfdriving car project
 
-My General Knowledge Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">Watch out for the Design</a>
+Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a>. completely refactored (React)
+Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a>. (vanilla JS)
 
-Rick & Morty Character's Website (API) <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">Link will follow</a>
+Rick & Morty Character's Website (API) <a href="#">Link will follow</a>
 
-My personal Website (Portfolio) <a href="https://ozanyurdakul98.github.io/personal-website/">click here</a>
+My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
 </br>
 
