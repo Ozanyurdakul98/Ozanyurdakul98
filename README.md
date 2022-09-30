@@ -40,16 +40,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozanyurdakul98)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
-
+## chronological order
 ### for an overall overview of all my projects goto my personal Website
 
-- Working on selfdriving car project
-
+- (vanilla JS) Working on selfdriving car project
 - (React) Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
-- (vanilla JS) Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
-
 - (React, Group of 4) Rick & Morty Character's Website (API) <a href="#">Link will follow</a>
-
+- (vanilla JS) Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - (vanilla JS) My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
 </br>
