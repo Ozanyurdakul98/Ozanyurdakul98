@@ -43,11 +43,11 @@
 ## chronological order
 ### for an overall overview of all my projects goto my personal Website
 
-- (vanilla JS) Working on selfdriving car project
-- (React) Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
-- (React, Group of 4) Rick & Morty Character's Website (API) <a href="#">Link will follow</a>
-- (vanilla JS) Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
-- (vanilla JS) My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
+- <strong>(vanilla JS)</strong>  Working on selfdriving car project
+- <strong>(React)</strong>  Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
+- <strong>(React, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="#">Link will follow</a>
+- <strong>(vanilla JS)</strong>  Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
+- <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
 </br>
 
