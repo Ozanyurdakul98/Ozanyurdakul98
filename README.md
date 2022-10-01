@@ -41,7 +41,7 @@
 
 # My Projects
 ## chronological order
-### for an overall overview of all my projects goto my personal Website
+### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
 
 - <strong>(vanilla JS)</strong>  Working on selfdriving car project
 - <strong>(React)</strong>  Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
