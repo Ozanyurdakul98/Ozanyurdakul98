@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozanyurdakul98)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
-## chronological order
+## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
 
 - <strong>(vanilla JS)</strong>  Working on selfdriving car project
