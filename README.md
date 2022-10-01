@@ -8,7 +8,7 @@
 - 🥸 I'm born in Austria with origin from Turkey and currently living in Germany
 - 👀🤖 I’m interested in good Web Development and a bright future full of Robots!
 - 📝📚 I’m currently learning Fullstack Web Development at the Bootcamp from Neuefische
-- I like ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
+- I prefer ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
 ## Thing's I know how to play with
 
