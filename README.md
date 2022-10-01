@@ -45,7 +45,7 @@
 
 - <strong>(vanilla JS)</strong>  Working on selfdriving car project
 - <strong>(React)</strong>  Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
-- <strong>(React, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app"></a>
+- <strong>(React, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
 - <strong>(vanilla JS)</strong>  Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
