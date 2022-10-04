@@ -45,7 +45,7 @@
 ## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://recipe-app-nextjs.vercel.app/">personal website</a>
 
-- <strong>(Next.js)</strong> Recipe Website <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> 
+- <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(vanilla JS)</strong>  Working on Selfdriving-Car project
 - <strong>(React.js)</strong>  Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
 - <strong>(React.js, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
