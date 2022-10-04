@@ -8,7 +8,7 @@
 - 🥸 I'm born in Austria with origin from Turkey and currently living in Germany
 - 👀🤖 I’m interested in good Web Development and a bright future full of Robots!
 - 📝📚 I’m currently learning Fullstack Web Development at the Bootcamp from Neuefische
-- I prefer ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
+- I prefer ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white) and I like my Raspberry pi
 
 ## Thing's I know how to play with
 
@@ -25,7 +25,8 @@
 - Databases: MongoDB
 
 #### Design
-- Gimp, Adobe Photoshop, Canvas pro, FIGMA, Wordpress & Elementor pro
+-  Adobe Photoshop, Gimp, Canvas pro, FIGMA 
+- Wordpress & Elementor pro
 
 #### Version control & Package manager
 - Github, Git
