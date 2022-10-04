@@ -20,10 +20,10 @@
 
 #### Runtime-enviroments, Frameworks, Libraries, IDEs & Databases
 - Runtime-environments: Node.js
-- Frameworks: React.js, Next.js
-- Libraries: Styled-components
+- Frameworks: Next.js, Express.js
+- Libraries: React.js, Mongoose(ODM), Styled-components(CSS)
 - IDEs: Visual Studio Code
-- Databases: MongoDB
+- Databases: MongoDB Atlas
 
 #### Design
 -  Adobe Photoshop, Gimp, Canvas pro, FIGMA 
