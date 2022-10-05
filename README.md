@@ -35,7 +35,7 @@
 
 # My Projects
 ## anti-chronological (from last to first)
-### for an overall description of my projects go to my <a href="https://recipe-app-nextjs.vercel.app/">personal website</a>
+### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
 
 #### The real thing ⤵
 - <strong>(React.js)</strong> Color Saver App <a href="https://color-saver-react-app.vercel.app">| live here |</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
