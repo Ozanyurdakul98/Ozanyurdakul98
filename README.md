@@ -45,12 +45,20 @@
 ## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://recipe-app-nextjs.vercel.app/">personal website</a>
 
+https://github.com/Ozanyurdakul98/color-saver-react-app
+
+#### The real thing ⤵
+- <strong>(React.js)</strong> Color Saver App <a href="https://recipe-app-nextjs.vercel.app">To be deployed</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
+">Repo</a> 
 - <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(vanilla JS)</strong>  Working on Selfdriving-Car project
 - <strong>(React.js)</strong>  Quiz App <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
 - <strong>(React.js, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
 - <strong>(vanilla JS)</strong>  Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
+
+#### Warm up project's
+
 
 </br>
 
