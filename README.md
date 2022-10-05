@@ -45,11 +45,10 @@
 ## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://recipe-app-nextjs.vercel.app/">personal website</a>
 
-https://github.com/Ozanyurdakul98/color-saver-react-app
 
 #### The real thing ⤵
-- <strong>(React.js)</strong> Color Saver App <a href="https://recipe-app-nextjs.vercel.app">To be deployed</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
-">Repo</a> 
+- <strong>(React.js)</strong> Color Saver App <a href="https://color-saver-react-app.vercel.app">live here </a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
+">Repo here</a> 
 - <strong>(vanilla JS)</strong>  Working on Selfdriving-Car project
 - <strong>(vanilla JS)</strong>  Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
