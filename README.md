@@ -49,7 +49,7 @@
 #### Warm up project's
 - <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(React.js, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
-- <strong>(React.js)</strong>  Quiz App Refactored in React <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a> completely refactored 
+- <strong>(React.js)</strong>  Quiz App Refactored in React <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a>  
 
 </br>
 
