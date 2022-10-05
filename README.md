@@ -7,7 +7,7 @@
 
 
 #### Languages & Languages
-- Markdown, CSS3, HTML5, vanilla Javascript
+- Javascript, CSS3, HTML5, Markdown
 - German, English, Turkish, Austrian-ish
 
 #### Runtime-enviroments, Frameworks, Libraries, IDEs & Databases
