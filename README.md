@@ -12,7 +12,7 @@
 
 #### Runtime-enviroments, Frameworks, Libraries, IDEs & Databases
 - Runtime-environments: Node.js
-- Frameworks: Next.js, Express.js
+- Frameworks: Next.js, Express.js, Electron.js
 - Libraries: React.js, Mongoose(ODM), Styled-components(CSS)
 - IDEs: Visual Studio Code
 - Databases: MongoDB Atlas
