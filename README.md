@@ -45,13 +45,18 @@
 - <strong>(vanilla JS)</strong> Selfdriving-Car <a href="https://ozanyurdakul98.github.io/selfdriving-car/
 ">| live here |</a> <a href="https://github.com/Ozanyurdakul98/selfdriving-car
 ">Repo here |</a> 
-- <strong>(vanilla JS)</strong>  Quiz App <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
+- <strong>(vanilla JS)</strong>  That's My Quiz <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
+
 #### Warm up project's
+- <strong>(Next.js, MongoDB)</strong> Small Quizle <a href="https://mongoose-with-next.vercel.app
+">| live here |</a> <a https://github.com/Ozanyurdakul98/mongoose-with-next.js
+">Repo here |</a> 
+- <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(React.js, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
-- <strong>(React.js)</strong>  Quiz App Refactored in React <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a>  
+- <strong>(React.js)</strong>  That's My Quiz - Refactored in React <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a>  
 
 </br>
 
