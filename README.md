@@ -50,10 +50,8 @@
 
 
 #### Warm up project's
-- <strong>(Next.js, MongoDB)</strong> Small Quizle <a href="https://mongoose-with-next.vercel.app
-">| live here |</a> <a https://github.com/Ozanyurdakul98/mongoose-with-next.js
+- <strong>(Next.js, MongoDB)</strong> Small Quizle <a href="https://mongoose-with-next.vercel.app">| live here |</a> <a https://github.com/Ozanyurdakul98/mongoose-with-next.js
 ">Repo here |</a> 
-- <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(Next.js)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(React.js, 4 people)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
 - <strong>(React.js)</strong>  That's My Quiz - Refactored in React <a href="https://react-quiz-app-v2-refactor.vercel.app">live here</a>  
