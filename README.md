@@ -17,7 +17,7 @@
 - Libraries: React.js, Mongoose(ODM)
 - IDEs: Visual Studio Code
 - Databases: MongoDB Atlas
-- Keywords: SSR, SSG, APIs
+- Buzzwords: SSR, SSG, APIs
 
 #### Design
 -  Adobe Photoshop, Gimp, Canvas pro, FIGMA 
