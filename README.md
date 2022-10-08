@@ -39,7 +39,7 @@
 ## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
 
-I've tried to write every repo readme explenational about what I used, so for further information about that you can look it up 
+I've tried to write every repo readme explenational about what tech I used, so for further information about that you can look it up 
 
 #### The real thing's ⤵
 - <strong>(React.js)</strong> Color Saver App <a href="https://color-saver-react-app.vercel.app">| live here |</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
