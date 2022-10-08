@@ -41,7 +41,7 @@
 
 I've tried to write every repo readme explenational about what I used, so for further information about that you can look it up 
 
-#### The real thing ⤵
+#### The real thing's ⤵
 - <strong>(React.js)</strong> Color Saver App <a href="https://color-saver-react-app.vercel.app">| live here |</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
 ">Repo here |</a> 
 - <strong>(vanilla JS)</strong> Selfdriving-Car <a href="https://ozanyurdakul98.github.io/selfdriving-car/
@@ -50,7 +50,7 @@ I've tried to write every repo readme explenational about what I used, so for fu
 - <strong>(vanilla JS)</strong>  That's My Quiz <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
 - <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
-#### Warm up project's
+#### Warm up project's ⤵
 - <strong>(Next.js, APIs)</strong> User data<a href="https://next-js-api-ruddy.vercel.app
 ">| live here |</a> <a href="https://github.com/Ozanyurdakul98/next-js-api">Repo here |</a> 
 - <strong>(Next.js, MongoDB, APIs)</strong> Small Quizle <a href="https://mongoose-with-next.vercel.app">| live here |</a> <a href="https://github.com/Ozanyurdakul98/mongoose-with-next.js">Repo here |</a> 
