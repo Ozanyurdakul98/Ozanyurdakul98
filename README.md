@@ -54,7 +54,11 @@ I've tried to write every repo readme explenational about what tech I used, so f
 - <strong>(Next.js, SSR, SSG)</strong> Recipe Website <a href="https://recipe-app-nextjs.vercel.app">live here</a> 
 - <strong>(React.js, APIs, 4 people Teamwork)</strong>  Rick & Morty Character's Website (API) <a href="https://github.com/philmetscher/web-rick-and-morty-app">repo here</a>
 
+
 #### In progress ⤵ 
+- <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://capstone-project-lime-ten.vercel.app/search
+">| live here |</a> <a href="https://github.com/Ozanyurdakul98/capstone-project
+">Repo here |</a> 
 - <strong>(vanilla JS)</strong> Selfdriving-Car <a href="https://ozanyurdakul98.github.io/selfdriving-car/
 ">| live here |</a> <a href="https://github.com/Ozanyurdakul98/selfdriving-car
 ">Repo here |</a> 
