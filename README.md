@@ -56,8 +56,7 @@ I've tried to write every repo readme explenational about what tech I used, so f
 
 
 #### In progress ⤵ 
-- <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://capstone-project-lime-ten.vercel.app/search
-">| live here |</a> <a href="https://github.com/Ozanyurdakul98/capstone-project
+- <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://github.com/Ozanyurdakul98/capstone-project
 ">Repo here |</a> 
 - <strong>(vanilla JS)</strong> Selfdriving-Car <a href="https://ozanyurdakul98.github.io/selfdriving-car/
 ">| live here |</a> <a href="https://github.com/Ozanyurdakul98/selfdriving-car
