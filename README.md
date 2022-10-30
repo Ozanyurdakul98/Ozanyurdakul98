@@ -39,8 +39,6 @@
 ## anti-chronological (from last to first)
 ### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
 
-I've tried to write every repo readme explenational about what tech I used, so for further information about that you can look it up 
-
 #### Working on ⤵ 
 - <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://github.com/Ozanyurdakul98/capstone-project
 ">Repo here |</a> 
