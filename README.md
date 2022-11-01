@@ -37,7 +37,7 @@
 
 # My Projects
 ## anti-chronological (from last to first)
-### Checkout my <a https://resume-porfolio.vercel.app/">personal website</a>
+### Checkout my <a href="https://resume-porfolio.vercel.app/">personal website</a>
 
 #### Working on ⤵ 
 - <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://github.com/Ozanyurdakul98/capstone-project
