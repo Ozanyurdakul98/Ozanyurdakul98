@@ -37,7 +37,7 @@
 
 # My Projects
 ## anti-chronological (from last to first)
-### for an overall description of my projects go to my <a href="https://ozanyurdakul98.github.io/personal-website/">personal website</a>
+### Checkout my <a https://resume-porfolio.vercel.app/">personal website</a>
 
 #### Working on ⤵ 
 - <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://github.com/Ozanyurdakul98/capstone-project
