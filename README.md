@@ -37,7 +37,7 @@
 
 # My Projects
 ## anti-chronological (from last to first)
-### Checkout my <a href="https://resume-porfolio.vercel.app/">personal website</a>
+### Checkout my new <a href="https://resume-porfolio.vercel.app/">personal website</a>
 
 #### Working on ⤵ 
 - <strong>(Next.js) Capstone-Project!!</strong>  <a href="https://github.com/Ozanyurdakul98/capstone-project
@@ -49,7 +49,7 @@ A Platform for Music-Service-Provider like music-producer or recording-studio ow
 - <strong>(React.js)</strong> Color Saver App <a href="https://color-saver-react-app.vercel.app">| live here |</a> <a href="https://github.com/Ozanyurdakul98/color-saver-react-app
 ">Repo here |</a> 
 - <strong>(vanilla JS)</strong>  That's My Quiz <a href="https://ozanyurdakul98.github.io/general-knowledge-quiz/">live here</a> 
-- <strong>(vanilla JS)</strong> My personal Website (Portfolio overview) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
+- <strong>(vanilla JS)</strong> My personal Website (old) <a href="https://ozanyurdakul98.github.io/personal-website/">live here</a>
 
 #### Warm up project's ⤵
 - <strong>(Next.js, APIs)</strong> User data<a href="https://next-js-api-ruddy.vercel.app
