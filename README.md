@@ -14,7 +14,7 @@
 - Buzzwords: Redux Toolkit, SSR, SSG, APIs
 
 #### Design
--  Adobe Photoshop, Gimp, Canvas pro, FIGMA 
+-  Adobe Photoshop, Gimp, Canvas pro, Figma 
 - Wordpress & Elementor pro
 
 #### Version control & Package manager
