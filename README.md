@@ -9,9 +9,10 @@
 - Runtime-environments: Node.js
 - Frameworks: Next.js, Express.js
 - Libraries: React.js, Mongoose(ODM), NextAuth.js, 
+- Global State Management: Redux Toolkit, RTK Query, (Zustand)
 - CSS-Frameworks: Styled-components, TailwindCSS
 - Databases: MongoDB Atlas, Cloud Firestore
-- Buzzwords: Redux Toolkit, SSR, SSG, APIs
+- Buzzwords: SSR, SSG, APIs
 
 #### Design
 -  Adobe Photoshop, Gimp, Canvas pro, Figma 
